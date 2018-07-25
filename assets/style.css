@@ -1,17 +1,29 @@
-.bg-blue {
-    background: #3079AB;
+.bg-white{
+    background-color: white;
+    color: gray;
+}
+.bg-blue{
+    background-color: rgb(76, 104, 187);
     color: white;
 }
-
-.card-white {
-    background: white;
-    padding: 30px;
-    box-shadow: 1px 1px 2px #e7e7e7;
-    border-radius: 4px;
-    margin: 20px 50px;
+.bg-gray{
+    background-color: lightgray;
+    color: #343a40;
 }
-
-.section1 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: gray;
+h1{
+    padding-top: 15px;
+}
+header h4{
+    padding-bottom: 60px;
+}
+.paddingtop50{
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+.paddingtop25{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.paddingbottom20{
+    padding-bottom: 20px;
 }
